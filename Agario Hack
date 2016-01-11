@@ -1,11 +1,4 @@
-// ==UserScript==
-// @name        Modified Agario Hack
-// @namespace   Agario Hack
-// @include     http://agar.io/*
-// @version     1.0
-// @grant       none
-// @author      TampGames
-// ==/UserScript==
+
 var aposLauncherVersion = 4.149;
 
 var showAd = true;
